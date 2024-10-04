@@ -59,6 +59,7 @@ BCD Counter
 視覺暫留速度夠快
 ### 蜂鳴器
 1會叫 0不會叫
+
 ## Demo Video
 - IO布局介紹
 https://youtu.be/lqq4aMi5bnc
